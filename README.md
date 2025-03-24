@@ -10,5 +10,5 @@ Kinematic model (bicycle model) of an input-constrained car-like vehicle
 # Prerequisites 
 The code was tested on Matlab 2022a environment. It requires the Ellipsoidal Toolbox ET  (https://www.mathworks.com/matlabcentral/fileexchange/21936-ellipsoidal-toolbox-et). 
 
-# Main File for simulating the controller (DEMO)
-- ST_FL_Trajectory_Tracking_Car.m: It's the main script that simulates the Trajectory tracking controller combining Feedback Linearization and Set-Theoretic strategy.
+# (DEMO) Main File for simulating the controller
+- ST_FL_Trajectory_Tracking_Car.m: The main script simulates the developed trajectory tracking controller, combining feedback linearization and a set-theoretic model predictive control strategy.
